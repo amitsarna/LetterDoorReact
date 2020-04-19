@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LetterDoorReact/precache-manifest.cd5044530b940888e8485d8baec945b4.js"
+  "/LetterDoorReact/precache-manifest.41a9d715a14ee88c8bc710082e7ebb16.js"
 );
 
 self.addEventListener('message', (event) => {
